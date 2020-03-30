@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15ac2722-1330-4961-8242-3276c1fe7f06" name="Default Changelist" comment="" />
+    <list default="true" id="15ac2722-1330-4961-8242-3276c1fe7f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assessment1/Scores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assessment1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assessment1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/AssessmentTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Assessment1/AssessmentTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/Scores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Assessment1/Student.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZrFluf9ZXuJwbKj66JNKEfbuHp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -72,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585589460154</updated>
-      <workItem from="1585589462676" duration="5555000" />
+      <workItem from="1585589462676" duration="7700000" />
     </task>
     <servers />
   </component>
@@ -80,26 +94,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1585596124417">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585596124417" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585595926969">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585595926969" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1585589929865">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585589929865" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1585595076561">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1585597231143">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585595076561" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1585595076561">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585597231143" />
+    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1585597231143">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585595076561" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1585595076560">
+    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585597231143" />
+    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1585597231142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585595076560" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1585595076561">
+    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585597231142" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1585597231143">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585595076561" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585597231143" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585593959245">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -124,5 +146,16 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585591396013" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
