@@ -1,5 +1,7 @@
 package Assessment1;
 
+import java.util.Arrays;
+
 public class Student {
     private String firstName;
     private String lastName;
@@ -38,6 +40,15 @@ public class Student {
         }
 
         return total;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", scores=" + Arrays.toString(scores) +
+                '}';
     }
 }
 

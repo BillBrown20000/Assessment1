@@ -83,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585589460154</updated>
-      <workItem from="1585589462676" duration="14464000" />
+      <workItem from="1585589462676" duration="15459000" />
     </task>
     <servers />
   </component>
@@ -91,10 +91,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1585600270083">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1585607847076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585600270083" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585607847076" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585595926969">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -107,22 +107,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585589929865" />
-    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1585603963141">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1585607900188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585603963141" />
-    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1585603963140">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585607900188" />
+    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1585607900188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585603963140" />
-    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1585603963140">
+    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585607900188" />
+    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1585607900188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585603963140" />
-    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1585603963141">
+    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585607900188" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1585607900188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585603963141" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585607900188" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585603271091">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -163,6 +163,14 @@
           <url>file://$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java</url>
+          <line>5</line>
+          <properties class="Assessment1.AssessmentTester" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
