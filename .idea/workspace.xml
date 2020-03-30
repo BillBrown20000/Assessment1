@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ac2722-1330-4961-8242-3276c1fe7f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assessment1/AssessmentTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assessment1/Scores.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Assessment1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assessment1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/AssessmentTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Assessment1/AssessmentTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/Scores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/AssessmentTester.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Assessment1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Assessment1/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
   </component>
   <component name="RunManager">
     <configuration name="AssessmentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -86,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585589460154</updated>
-      <workItem from="1585589462676" duration="7700000" />
+      <workItem from="1585589462676" duration="11452000" />
     </task>
     <servers />
   </component>
@@ -94,34 +91,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1585596124417">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1585600270083">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585596124417" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585600270083" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585595926969">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585595926969" />
+    <state x="371" y="88" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585600520368">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585600520368" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1585589929865">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585589929865" />
-    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1585597231143">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1585601039980">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585597231143" />
-    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1585597231143">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585601039980" />
+    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1585601039980">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585597231143" />
-    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1585597231142">
+    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585601039980" />
+    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1585601039980">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585597231142" />
-    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1585597231143">
+    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585601039980" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1585601039980">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585597231143" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585601039980" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585593959245">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -138,10 +139,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585593959245" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1585590083077">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585598196545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585590083077" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585598196545" />
+    <state x="371" y="96" width="538" height="495" key="extract.method.dialog" timestamp="1585598471005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" width="538" height="495" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1585598471005" />
+    <state x="348" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585600533806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1585600533806" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585591396013">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

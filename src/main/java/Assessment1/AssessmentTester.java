@@ -6,7 +6,7 @@ public class AssessmentTester {
     public static void main(String[] args) {
 
 
-        Student BillyTheKiDD = new Student("William ", "Brown");
+        Student BillyTheKiDD = new Student("William ", "Brown", new double[]{90.0, 85.2, 73.4});
 
 
 
@@ -14,8 +14,8 @@ public class AssessmentTester {
         System.out.print(BillyTheKiDD.getLastName());
         System.out.println(Arrays.toString(BillyTheKiDD.getScores()));
         System.out.println(Arrays.toString(BillyTheKiDD.getScores()));
-        System.out.println(BillyTheKiDD.calculateGradeAverage(67.0,77.9,89.0));
-        System.out.println(BillyTheKiDD.totalScores(67.0,77.9,89.0));
+        System.out.println(Arrays.toString(BillyTheKiDD.calculateGradeAverage()));
+        System.out.println(Arrays.toString(BillyTheKiDD.totalScores()));
 
 
 
