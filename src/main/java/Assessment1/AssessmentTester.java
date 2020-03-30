@@ -14,8 +14,8 @@ public class AssessmentTester {
         System.out.print(BillyTheKiDD.getLastName());
         System.out.println(Arrays.toString(BillyTheKiDD.getScores()));
         System.out.println(Arrays.toString(BillyTheKiDD.getScores()));
-        System.out.println(Arrays.toString(BillyTheKiDD.calculateGradeAverage()));
-        System.out.println(Arrays.toString(BillyTheKiDD.totalScores()));
+        System.out.println(BillyTheKiDD.calculateGradeAverage());
+        System.out.println(BillyTheKiDD.totalScores());
 
 
 

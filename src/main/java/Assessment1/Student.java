@@ -24,19 +24,20 @@ public class Student {
         return scores;
     }
 
-    public double[] calculateGradeAverage(){
+    public double calculateGradeAverage(){
         int sum = 0;
         for (int x = 0; x < scores.length; x++)
             sum += scores[x];
         double i = sum / scores.length;
-        return new double[]{i};
+        return i;
     }
-    public double[] totalScores(){
+    public double totalScores() {
         double total = 0;
-        for (int x = 0; x < scores.length; x++)
-            total = scores[x];
-        return new double[]{total};
+        for (int x = 0; x < scores.length; x++){
+            total = total + scores[x];
+        }
+
+        return total;
     }
 }
-
 
